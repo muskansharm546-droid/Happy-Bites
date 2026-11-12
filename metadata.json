@@ -1,0 +1,6 @@
+{
+  "name": "Happy Bites – Online Food & Snacks Shopping",
+  "description": "Order chocolates, crisps, namkeen, beverages, candies, and gourmet treats with express delivery on Happy Bites. Happiness in Every Bite!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
